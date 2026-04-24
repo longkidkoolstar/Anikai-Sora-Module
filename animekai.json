@@ -5,12 +5,12 @@
     "name": "longkidkoolstar",
     "icon": "https://avatars.githubusercontent.com/u/longkidkoolstar"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "language": "English (SUB/DUB)",
   "streamType": "HLS",
   "quality": "1080p",
   "baseUrl": "https://anikai.to/",
   "searchBaseUrl": "https://anikai.to/browser?keyword=%s",
-  "scriptUrl": "https://github.com/longkidkoolstar/Anikai-Sora-Module/raw/refs/heads/main/animekai.js",
+  "scriptUrl": "https://raw.githubusercontent.com/longkidkoolstar/Anikai-Sora-Module/main/animekai.js",
   "asyncJS": true
 }
