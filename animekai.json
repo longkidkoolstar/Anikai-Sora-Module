@@ -1,0 +1,16 @@
+{
+  "sourceName": "AnimeKai",
+  "iconUrl": "https://anikai.to/favicon.ico",
+  "author": {
+    "name": "longkidkoolstar",
+    "icon": "https://avatars.githubusercontent.com/u/longkidkoolstar"
+  },
+  "version": "1.0.0",
+  "language": "English (SUB/DUB)",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://anikai.to/",
+  "searchBaseUrl": "https://anikai.to/browser?keyword=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/longkidkoolstar/sora-modules/main/animekai/animekai.js",
+  "asyncJS": true
+}
