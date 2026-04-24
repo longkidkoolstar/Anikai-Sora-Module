@@ -11,6 +11,6 @@
   "quality": "1080p",
   "baseUrl": "https://anikai.to/",
   "searchBaseUrl": "https://anikai.to/browser?keyword=%s",
-  "scriptUrl": "https://raw.githubusercontent.com/longkidkoolstar/sora-modules/main/animekai/animekai.js",
+  "scriptUrl": "https://github.com/longkidkoolstar/Anikai-Sora-Module/raw/refs/heads/main/animekai.js",
   "asyncJS": true
 }
